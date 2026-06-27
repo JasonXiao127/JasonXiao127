@@ -1,5 +1,4 @@
 <div align = "center">
-  
   <h1>Hello! I'm Jason Xiao</h1>
 
  <h2>Languages and Tools</h2>
