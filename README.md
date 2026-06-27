@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker">
    <img src="https://img.shields.io/badge/-Debian-000?&logo=Debian" alt="Debian">
  </p>
- <h2>Stuff I'm currently working on and experimenting with</h2>
+ <h2>Stuff I'm experimenting with</h2>
  <p>
    <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter" alt="Flutter">
    <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" alt="Dart">
