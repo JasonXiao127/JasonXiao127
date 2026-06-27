@@ -1,6 +1,7 @@
 <div align = "center">
   <h1>Hello! I'm Jason Xiao</h1>
   <P>CS Student @ University of Maryland</P>
+  <p>Contact me @Jxiao@terpmail.umd.edu</p>
  <h2>Languages and Tools</h2>
 
  <p>
