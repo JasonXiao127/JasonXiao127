@@ -3,7 +3,6 @@
   <P>CS Student @ University of Maryland</P>
   <p>Contact me @jxiao127@terpmail.umd.edu</p>
  <h2>Languages and Tools</h2>
-
  <p>
    <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python">
    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML">
