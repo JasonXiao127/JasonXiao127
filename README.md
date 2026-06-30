@@ -17,5 +17,6 @@
    <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter" alt="Flutter">
    <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" alt="Dart">
    <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript">
+   <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=000" alt="React">
  </p>
 </div>
