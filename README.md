@@ -18,6 +18,6 @@
    <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" alt="Dart">
    <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript">
    <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React" />
-   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white">
  </p>
 </div>
